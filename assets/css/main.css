@@ -165,13 +165,13 @@ input, select, textarea {
 	}
 
 	hr {
-		border-top: solid 1px rgba(124, 128, 129, 0.2);
+		border-top: solid 1px rgba(50, 50, 50, 0.825);
 		border: 0;
 		margin-bottom: 1.5em;
 	}
 
 	blockquote {
-		border-left: solid 0.5em rgba(124, 128, 129, 0.2);
+		border-left: solid 0.5em rgba(50, 50, 50, 0.825);
 		font-style: italic;
 		padding: 1em 0 1em 2em;
 	}
@@ -2642,7 +2642,7 @@ input, select, textarea {
 
 	#footer {
 		background: #E8EEF4;
-		color: #7c8081;
+		color: #626262;
 		padding: 5em 5em 10em 5em;
 		text-align: center;
 	}
